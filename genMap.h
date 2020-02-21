@@ -1,3 +1,7 @@
+/*
+* Not everything in here has been develop by William Gauvin
+*
+*/
 #ifndef __GEN_MAP_H__
 #define __GEN_MAP_H__
 
