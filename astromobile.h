@@ -1,9 +1,7 @@
 /*
  * Astromobile.h
  * Implémentation du squelette de la classe Car
- * Créer par: William Gauvin: 1721068
- * 			  Carl Hajal: 1970201
- * 			  Yong Xu: 1953077
+ * Créer par: William Gauvin
  * */
 
 #ifndef SRC_ASTROMOBILE_H_
