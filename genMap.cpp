@@ -1,3 +1,7 @@
+/*
+* Not everything in here has been develop by William Gauvin
+*
+*/
 #include <iostream>
 #include <cmath>
 #include <random>
