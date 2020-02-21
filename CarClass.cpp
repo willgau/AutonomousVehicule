@@ -1,9 +1,7 @@
 /*
  * Astromobile2.cpp
  * Implémentation complète des fonctions de la classe Car
- * Créer par: William Gauvin: 1721068
- * 			  Carl Hajal: 1970201
- * 			  Yong Xu: 1953077
+ * Créer par: William Gauvin
  * */
 
 #include "astromobile.h"
